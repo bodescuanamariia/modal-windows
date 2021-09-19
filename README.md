@@ -1,5 +1,5 @@
 ## Modal windows
 
-You can use my project here 👇
+You can see my project here 👇
 
 https://bodescuanamariia.github.io/modal-windows/
